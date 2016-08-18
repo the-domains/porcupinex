@@ -5,14 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-18T14:23:37.968Z'
-dateModified: '2016-08-18T14:19:04.730Z'
+datePublished: '2016-08-18T14:27:41.423Z'
+dateModified: '2016-08-18T14:23:47.664Z'
 title: Instagramphoto wall
 author: []
 via: {}
 sourcePath: _posts/2016-08-18-instagramwallphotowallhomedecorlalalabshomedesign.md
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: true
 url: instagramwallphotowallhomedecorlalalabshomedesign/index.html
 _type: Article
