@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'JØRGEN LARSEN  Leadership and Management in Copenhagen, Denmark'
-datePublished: '2016-08-18T17:19:19.135Z'
-dateModified: '2016-08-18T17:19:11.525Z'
+datePublished: '2016-08-18T17:20:45.156Z'
+dateModified: '2016-08-18T17:19:29.626Z'
 title: ''
 author: []
 via: {}
