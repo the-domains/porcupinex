@@ -5,15 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'JØRGEN LARSEN  Leadership and Management in Copenhagen, Denmark'
-datePublished: '2016-08-18T17:20:45.156Z'
-dateModified: '2016-08-18T17:19:29.626Z'
+datePublished: '2016-08-18T17:21:01.268Z'
+dateModified: '2016-08-18T17:20:46.342Z'
 title: ''
 author: []
 via: {}
 sourcePath: >-
   _posts/2016-08-18-jorgen-larsen-leadership-and-management-in-copenhagen-denm.md
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: true
 url: jorgen-larsen-leadership-and-management-in-copenhagen-denm/index.html
 _type: Article
