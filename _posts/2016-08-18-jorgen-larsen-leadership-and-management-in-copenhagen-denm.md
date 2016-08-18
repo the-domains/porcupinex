@@ -1,26 +1,26 @@
 ---
+datePublished: '2016-08-18T22:07:24.708Z'
+sourcePath: >-
+  _posts/2016-08-18-jorgen-larsen-leadership-and-management-in-copenhagen-denm.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: 'JØRGEN LARSEN Leadership and Management in Copenhagen, Denmark'
-datePublished: '2016-08-18T17:32:28.507Z'
-dateModified: '2016-08-18T17:32:28.002Z'
 author:
   - {}
 via: {}
-sourcePath: >-
-  _posts/2016-08-18-jorgen-larsen-leadership-and-management-in-copenhagen-denm.md
+dateModified: '2016-08-18T22:07:24.094Z'
 title: ABOUT
-authors: []
 publisher: {}
+description: 'JØRGEN LARSEN  Leadership and Management in Copenhagen, Denmark'
+inLanguage: null
+inNav: false
 starred: true
 url: about/index.html
 _type: Article
 
 ---
-![Leadership and Management in Copenhagen, Denmark](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24368db8-e581-4247-9e7f-41213c857e4f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24368db8-e581-4247-9e7f-41213c857e4f.jpg)
 
 JØRGEN LARSEN   
 Leadership and Management in Copenhagen, Denmark
