@@ -1,5 +1,8 @@
+name: porcupinex
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.1290323
 title: Jørgen Larsen (PORCUPINEX)
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0.5
-  rhythmicContrast: 0.75
   brandColors:
     - '#101010'
     - '#d7dee6'
     - '#afa6a1'
     - '#2a3a54'
     - '#0e6e92'
+  brandStrength: 0.5
   lightness: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: porcupinex
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.1290323
-layout_spectrum: 0.8136201
+  saturation: 0
+  rhythmicContrast: 0.75
+purpose: []
