@@ -1,19 +1,24 @@
 ---
-title: Instagram photo wall
-datePublished: '2016-08-18T17:04:36.514Z'
-dateModified: '2016-08-18T17:03:19.019Z'
-author: []
-description: ''
-publisher: {}
-via: {}
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
-authors: []
-starred: true
+description: ''
+datePublished: '2016-08-18T17:28:08.965Z'
+dateModified: '2016-08-18T17:28:08.170Z'
+title: Instagram photo wall
+author: []
+via: {}
 sourcePath: _posts/2016-08-18-instagram-photo-wall.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _type: Blurb
 
 ---
