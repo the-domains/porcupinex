@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-18T14:36:12.078Z'
-dateModified: '2016-08-18T14:36:11.647Z'
+datePublished: '2016-08-18T14:38:26.741Z'
+dateModified: '2016-08-18T14:38:03.385Z'
 title: Instagram photo wall
 author: []
 via: {}
