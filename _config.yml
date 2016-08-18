@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: ABOUT
+  - name: ABOUT ME
     id: 5e173e52-d81c-4f50-9135-4ad4cd49dc9e
     type: content
 favicon: null
