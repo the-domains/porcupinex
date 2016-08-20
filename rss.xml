@@ -4,8 +4,22 @@
         <description><![CDATA[Jørgen Larsen ]]></description>
         <link>http://porcupinex.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 22:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 07:31:45 GMT</lastBuildDate>
         <atom:link href="http://porcupinex.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Me anno 2016 with headache.]]></title>
+            <description><![CDATA[<article><h1>Me anno 2016 with headache.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e231ad9-e309-4b13-8f47-593daab87a43.png"></article>]]></description>
+            <link>http://porcupinex.com/me-anno-2016-with-headache/index.html</link>
+            <guid isPermaLink="false">3153c907-a31e-4204-aed8-52ffd9d3cf18</guid>
+            <pubDate>Sat, 20 Aug 2016 07:31:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ABOUT]]></title>
+            <description><![CDATA[<article><h1>ABOUT</h1><p>JØRGEN LARSEN Leadership and Management (Copenhagen, Denmark)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24368db8-e581-4247-9e7f-41213c857e4f.jpg"></article>]]></description>
+            <link>http://porcupinex.com/about/index.html</link>
+            <guid isPermaLink="false">5e173e52-d81c-4f50-9135-4ad4cd49dc9e</guid>
+            <pubDate>Sat, 20 Aug 2016 07:31:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inbox Zero: Can Employees Be Persuaded to Abandon Email?]]></title>
             <description><![CDATA[<article><h1>Inbox Zero: Can Employees Be Persuaded to Abandon Email?</h1><p>Bottom Line: The rise of Web 2.0 platforms and social media programs has the potential to enhance the way colleagues collaborate, but old work habits die hard. Since its widespread adoption by the business world in the mid-1990s, email has become by far the most popular method (pdf) of interoffice communication and knowledge sharing among work colleagues.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c7bb8ba6e4fb06f309eab80c507fcf28/noop.jpg?input=http%3A%2F%2Fwww.strategy-business.com%2Fmedia%2Fimage%2FMarketI_thumb5_690x400.jpg"></article>]]></description>
@@ -19,13 +33,6 @@
             <link>http://firstround.com/review/forget-technical-debt-heres-how-to-build-technical-wealth/?_hsenc=p2ANqtz-8u-75VdOCG0S9BxUZbxz6RalAblhSVuzLbtt4ne-ivbvQtjCmKVkjljO91cnxUIzbE8tMTBJzMkK2bpTsFebvBNwryBA&amp;_hsmi=32846075</link>
             <guid isPermaLink="false">cc727043-b897-4a22-9874-a8b275e42f1d</guid>
             <pubDate>Fri, 19 Aug 2016 13:17:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Me anno 2016 with headache.]]></title>
-            <description><![CDATA[<article><h1>Me anno 2016 with headache.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e231ad9-e309-4b13-8f47-593daab87a43.png"></article>]]></description>
-            <link>http://porcupinex.com/me-anno-2016-with-headache/index.html</link>
-            <guid isPermaLink="false">3153c907-a31e-4204-aed8-52ffd9d3cf18</guid>
-            <pubDate>Thu, 18 Aug 2016 22:19:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
