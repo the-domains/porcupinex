@@ -1,26 +1,26 @@
 ---
-description: 'JØRGEN LARSEN Leadership and Management (Copenhagen, Denmark)'
-datePublished: '2016-08-20T07:31:06.946Z'
-inNav: false
+datePublished: '2016-08-20T10:35:51.658Z'
+sourcePath: >-
+  _posts/2016-08-18-jorgen-larsen-leadership-and-management-in-copenhagen-denm.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
 author:
   - {}
 via: {}
-sourcePath: >-
-  _posts/2016-08-18-jorgen-larsen-leadership-and-management-in-copenhagen-denm.md
-authors: []
-hasPage: true
-inLanguage: null
-title: ABOUT
+dateModified: '2016-08-20T10:35:50.833Z'
+title: Jørgen Larsen
 publisher: {}
-keywords: []
-dateModified: '2016-08-19T22:10:43.348Z'
-inFeed: true
+description: 'JØRGEN LARSEN  Leadership and Management (Copenhagen, Denmark)'
+inLanguage: null
+inNav: false
 starred: false
 url: about/index.html
 _type: Article
 
 ---
-![Leadership and Management in Copenhagen, Denmark](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24368db8-e581-4247-9e7f-41213c857e4f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24368db8-e581-4247-9e7f-41213c857e4f.jpg)
 
 JØRGEN LARSEN   
 Leadership and Management (Copenhagen, Denmark)
@@ -42,7 +42,7 @@ I have been working with software development for the last 27 years as a develop
 
 ## MY PROFESSIONAL MANIFESTO
 
-■ I will build high performance organisations with trust, freedom and openness. 
+■ I will build high performance organisations with trust, freedom and openness.
 
 ■ I will care for people much more than for high profit margins.  
 ■ I will embrace and respect the values of others.  
