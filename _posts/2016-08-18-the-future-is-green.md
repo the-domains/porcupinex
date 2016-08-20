@@ -1,19 +1,18 @@
 ---
-dateModified: '2016-08-18T16:36:38.962Z'
+datePublished: '2016-08-20T07:31:26.209Z'
+sourcePath: _posts/2016-08-18-the-future-is-green.md
 author: []
 via: {}
-title: The future is green
+dateModified: '2016-08-20T07:31:25.672Z'
+title: The future is all green
 publisher: {}
 description: ''
-datePublished: '2016-08-18T16:36:48.990Z'
 starred: false
-sourcePath: _posts/2016-08-18-the-future-is-green.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-# The future is green
-
+# The future is all green
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05259632-e387-491e-994b-375ce0b8788f.jpg)
