@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Jørgen Larsen ]]></title>
-        <description><![CDATA[Jørgen Larsen ]]></description>
+        <title><![CDATA[JØRGEN LARSEN]]></title>
+        <description><![CDATA[JØRGEN LARSEN]]></description>
         <link>http://porcupinex.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 07:31:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 10:35:53 GMT</lastBuildDate>
         <atom:link href="http://porcupinex.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jørgen Larsen]]></title>
+            <description><![CDATA[<article><h1>Jørgen Larsen</h1><p>JØRGEN LARSEN Leadership and Management (Copenhagen, Denmark)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24368db8-e581-4247-9e7f-41213c857e4f.jpg"></article>]]></description>
+            <link>http://porcupinex.com/about/index.html</link>
+            <guid isPermaLink="false">5e173e52-d81c-4f50-9135-4ad4cd49dc9e</guid>
+            <pubDate>Sat, 20 Aug 2016 10:35:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Me anno 2016 with headache.]]></title>
             <description><![CDATA[<article><h1>Me anno 2016 with headache.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e231ad9-e309-4b13-8f47-593daab87a43.png"></article>]]></description>
             <link>http://porcupinex.com/me-anno-2016-with-headache/index.html</link>
             <guid isPermaLink="false">3153c907-a31e-4204-aed8-52ffd9d3cf18</guid>
             <pubDate>Sat, 20 Aug 2016 07:31:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ABOUT]]></title>
-            <description><![CDATA[<article><h1>ABOUT</h1><p>JØRGEN LARSEN Leadership and Management (Copenhagen, Denmark)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24368db8-e581-4247-9e7f-41213c857e4f.jpg"></article>]]></description>
-            <link>http://porcupinex.com/about/index.html</link>
-            <guid isPermaLink="false">5e173e52-d81c-4f50-9135-4ad4cd49dc9e</guid>
-            <pubDate>Sat, 20 Aug 2016 07:31:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Inbox Zero: Can Employees Be Persuaded to Abandon Email?]]></title>
