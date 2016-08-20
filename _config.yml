@@ -1,4 +1,3 @@
-layout_spectrum: 0.5635418267920613
 typography_spectrum: 0.8475378390867263
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.5635418267920613
 analytics:
   google: null
   facebook: null
@@ -42,5 +42,5 @@ collections:
       format: rss
       number: 10
 title: 'Jørgen Larsen '
-description: porcupinex
+description: PORCUPINEX
 purpose: []
